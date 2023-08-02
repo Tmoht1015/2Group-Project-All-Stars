@@ -3,6 +3,7 @@ Project Group # 2 <br />
 *Cited Resources:* <br />
 Most code created or obtained was performed with prior knowledge from class materials, tutoring sessions or referring to chatgpt for assistance. <br />
 Dataset obtained via: https://www.kaggle.com/datasets/sevgisarac/temperature-change <br />
+Presentation link: https://docs.google.com/presentation/d/1GfH3-Gxjr7RLSwNnFSC1dXaD9w_sQ71Ze-V17DrLh3s/edit?usp=sharing
 
 + How to remove warnings
 -https://stackoverflow.com/questions/14463277/how-to-disable-python-warnings
