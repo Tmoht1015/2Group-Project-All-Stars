@@ -3,6 +3,17 @@ Project Group # 2 <br />
 *Cited Resources:* <br />
 Most code created or obtained was performed with prior knowledge from class materials, tutoring sessions or referring to chatgpt for assistance. <br />
 Dataset obtained via: https://www.kaggle.com/datasets/sevgisarac/temperature-change <br />
+
++ How to remove warnings
+-https://stackoverflow.com/questions/14463277/how-to-disable-python-warnings
+
++Noted Weather Events in presentation
+- 1979 Hurricane Frederic https://www.weather.gov/mob/frederic
+- 1980 Heat wave in North America https://www.washingtonpost.com/weather/2020/07/11/heat-wave-1980/
+- Climate Patterns:
+    -El Niño: https://www.weather.gov/ilx/El_Nino
+    -La Niña: https://education.nationalgeographic.org/resource/la-nina/
+
 *Thomas Banninga's Citations:* <br />
 +Tutoring Session on 07/28/23 w/ Limei Hou <br />
 +ChatGPT transcript for printing linear regression equations: <br />
