@@ -19,5 +19,5 @@ Presentation link: https://docs.google.com/presentation/d/1GfH3-Gxjr7RLSwNnFSC1d
 +Tutoring Session on 07/28/23 w/ Limei Hou <br />
 +ChatGPT transcript for printing linear regression equations: <br />
   -https://docs.google.com/document/d/1a07p0Kyjfu8KS-0SsZsYwKZZj0lh3uYAMx7nbpxj1Gs/edit?usp=sharing <br />
-+ChatGPT transcript for assessing p-values for Hypotheses/Conclusion: <br />
++ChatGPT transcript for assessing multiple p-values for Hypotheses/Conclusion: <br />
   -https://docs.google.com/document/d/1M4owKrZJBTcDFeZaAnmEAgTZKOAdEzMBKNmcCrx8RgM/edit?usp=sharing <br />
